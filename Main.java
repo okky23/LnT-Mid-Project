@@ -1,8 +1,8 @@
 import java.util.Collections;
 import java.util.Random;
 import java.util.Scanner;
-import java.util.Vector; //Bonus karyawan belum di kerjain
-							/// BONUS GAJI TIDAK DIMASUKKAN	
+import java.util.Vector; 
+			  /// BONUS GAJI TIDAK DIMASUKKAN	
 
 public class Main {
 	Scanner scan = new Scanner(System.in);
